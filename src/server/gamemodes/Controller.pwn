@@ -1,0 +1,36 @@
+/**
+	* Main contoller module
+*/
+
+/*#include "controllers/SpecialActionsController.pwn"
+#include "controllers/UserController.pwn"
+#include "controllers/JobController.pwn"
+#include "controllers/VehicleController.pwn"
+#include "controllers/AirdropController.pwn"
+#include "controllers/NightclubController.pwn"
+#include "controllers/BunkerController.pwn"
+#include "controllers/OfficeController.pwn"
+#include "controllers/CrewController.pwn"
+#include "controllers/AdminController.pwn"
+#include "controllers/CashpointController.pwn"
+#include "controllers/HeistsController.pwn"
+#include "controllers/TerrorbyteController.pwn"
+#include "controllers/CasinoController.pwn"
+#include "controllers/GangAttackController.pwn"
+#include "controllers/MinigameController.pwn"
+#include "controllers/SurvivalController.pwn"
+#include "controllers/EventController.pwn"
+#include "controllers/PhoneController.pwn"
+#include "controllers/MissionController.pwn"
+#include "controllers/GPSController.pwn"
+#include "controllers/BrowserController.pwn"
+#include "controllers/ApartmentsController.pwn"
+#include "controllers/PegasusController.pwn"
+#include "controllers/SecuroServController.pwn"
+#include "controllers/YachtController.pwn"
+#include "controllers/FlightSchoolController.pwn"
+#include "controllers/GangzoneController.pwn"
+#include "controllers/OrgController.pwn"*/
+#include "controllers/MapsController.pwn"
+/*#include "controllers/UIController.pwn"
+#include "controllers/UserZoneController.pwn"*/
